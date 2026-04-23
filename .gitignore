@@ -1,0 +1,9 @@
+**/id_ed25519
+**/id_ed25519_internal
+**/id_ed25519.pub
+ollama_data/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+Docker/ollama_data/
